@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-    <https://soundcloud.com/leonardo-felipe-80/podcast-final?si=d247650fb118460496014a9adf86f7ee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
+    [Podcast SoundCloud] (https://soundcloud.com/leonardo-felipe-80/podcast-final?si=d247650fb118460496014a9adf86f7ee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
