@@ -3,13 +3,6 @@
     src="./assets/capa.png"
     width="300"
 />
-</p>
-<p align="center">
-    preview do podcast
-</p>
-
-[Podcast SoundCloud] (https://soundcloud.com/leonardo-felipe-80/podcast-final?si=d247650fb118460496014a9adf86f7ee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -34,7 +27,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## Ouça Aqui
 
-[Podcast SoundCloud](https://soundcloud.com/leonardo-felipe-80/podcast-final?si=d247650fb118460496014a9adf86f7ee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[SoundCloud](https://soundcloud.com/leonardo-felipe-80/podcast-final?si=d247650fb118460496014a9adf86f7ee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ## 👨‍💻 Expert
 
