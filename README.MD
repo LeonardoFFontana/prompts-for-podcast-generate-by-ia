@@ -42,20 +42,15 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspLeonardo Fontana<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/leonardoffontana">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/leonardo.felipe.f1/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -65,4 +60,4 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Leonardo Fontana](https://github.com/leonardoffontana)
