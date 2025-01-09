@@ -40,7 +40,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="./assets/photo.png"
     />
     <p>&nbsp&nbsp&nbspLeonardo Fontana<br>
     &nbsp&nbsp&nbsp
